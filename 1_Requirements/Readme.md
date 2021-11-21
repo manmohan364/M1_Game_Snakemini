@@ -25,6 +25,24 @@ declared to win if he gets to finish first ”.
 ![image](https://user-images.githubusercontent.com/94183432/142659154-99a579c9-1cbd-494e-80d7-fc1c1099748f.png)
 
 
-## Cost and Features and Timeline
-      
-Snake – The first published by Nokia, for monochrome phones. It was programmed in 1997 by Taneli Armanto of Nokia and introduced on the Nokia
+## Features
+-The player controls a dot, square, or object on a bordered plane. As it moves forward, 
+it leaves a trail behind, resembling a moving snake. In some games,
+the end of the trail is in a fixed position, 
+so the snake continually gets longer as it moves.
+
+  -Snake is a classic game that requires players to assess their surroundings and find the quickest or safest route to a point. This is an excellent opportunity to learn about spatial awareness and plan ahead to your next move.     
+
+# Swot Analysis
+# Strenght
+ -Snake game is a computer action game, whose goal is to control a snake to move and collect food.
+   -Snake game is a computer action game, whose goal is to control a snake to move and In our future work,
+   -Snake is a tool that can be used as an educational helping hand. One of the important parts of learning is that you will never get something right the first time. Snake teaches children that practice makes perfect when it comes to learning new skills. 
+ # Weakness
+ -The classic game is infamous for using your own success against you when you become so long that you get in your own way. Whilst many games and activities can teach your child about vital life skills, there are not many that would educate on long term strategic planning.
+ 
+ 
+ # Opportunity
+ -Snake is a classic game that requires players to assess their surroundings and find the quickest or safest route to a point. This is an excellent opportunity to learn about spatial awareness and plan ahead to your next move.
+ # Threats
+ 
