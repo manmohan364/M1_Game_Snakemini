@@ -22,7 +22,7 @@ according to the ladder and if you get a snake the participant
 must go down according to the snake's path, the participant is
 declared to win if he gets to finish first ”.
 
-![image](https://user-images.githubusercontent.com/94183432/142659154-99a579c9-1cbd-494e-80d7-fc1c1099748f.png)
+
 
 
 ## Features
@@ -75,3 +75,9 @@ There will be four user-defined functions.
 Build a boundary within which the game will be played.
 The fruits are generated randomly.
 Then increase the score whenever the snake eats a fruit.
+
+
+
+## Detail requirements
+# High Level Requirements:
+
