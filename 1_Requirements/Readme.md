@@ -44,5 +44,19 @@ so the snake continually gets longer as it moves.
  
  # Opportunity
  -Snake is a classic game that requires players to assess their surroundings and find the quickest or safest route to a point. This is an excellent opportunity to learn about spatial awareness and plan ahead to your next move.
- # Threats
+ # 4 w and 1H
+ # what
+ The snake game is a simple console-based game developed in C programming language. It is suited for mini-projects. This project is a learning milestone for a beginner who wants to step into basic gaming in C.
+ Snake is the common name for a video game concept where the player maneuvers a line which grows in length, with the line itself being a primary obstacle. The concept originated in the 1976 two-player arcade game Blockade from Gremlin Industries, and the ease of implementing Snake has led to hundreds of versions (some of which have the word snake or worm in the title) for many platforms
  
+# why
+
+Gameplay, which is the interaction between the player and the mechanics and systems
+Mechanics and systems, which are the rules and objects in the game
+Player experience, which is how users feel when they're playing the game
+
+
+# where
+
+
+# who
