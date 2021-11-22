@@ -57,6 +57,21 @@ Player experience, which is how users feel when they're playing the game
 
 
 # where
+Snake is a classic game that requires players to assess their surroundings and find the quickest or safest route to a point. This is an excellent opportunity to learn about spatial awareness and plan ahead to your next move.
 
+The classic game is infamous for using your own success against you when you become so long that you get in your own way. Whilst many games and activities can teach your child about vital life skills, there are not many that would educate on long term strategic planning.
 
 # who
+Snake’s story begins long before it found a mass audience with Nokia. It was first created as a concept in 1976 under the name of Blockage, and was a monochromatic two-player arcade game developed by video games company, Gremlin Interactive. Similar to what would soon become Snake, it involved pressing arrow keys to move each character, wherein players would leave a solid trail behind them wherever they turned. To win, the player had to last the longest without hitting anything else. This game inspired numerous iterations, such as the arcade game Bigfoot Bonkers that year.
+
+# How
+The snake is represented with a 0(zero) symbol.
+The fruit is represented with an *(asterisk) symbol.
+The snake can move in any direction according to the user with the help of the keyboard (W, A, S, D keys).
+When the snake eats a fruit the score will increase by 10 points.
+The fruit will generate automatically within the boundaries.
+Whenever the snake will touch the boundary the game is over.
+There will be four user-defined functions.
+Build a boundary within which the game will be played.
+The fruits are generated randomly.
+Then increase the score whenever the snake eats a fruit.
