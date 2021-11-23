@@ -53,5 +53,5 @@ void main()
         draw();
         input(gameover,flag);
         logic(flag,y,x,height,width,gameover,fruitx,fruity,score);
-    } return 0;
+    } 
 }
