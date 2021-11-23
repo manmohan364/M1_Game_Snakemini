@@ -80,4 +80,8 @@ Then increase the score whenever the snake eats a fruit.
 
 ## Detail requirements
 # High Level Requirements:
-
+| HLR  | Descriation |
+| ------------- | ------------- |
+| HLR_1  | Content Cell  |
+| HLR_2  | Content Cell  |
+| HLR_3  |
