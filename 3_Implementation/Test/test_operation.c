@@ -1,4 +1,4 @@
-#include "../unity/unity.h"
+#include "../Unity/unity.h"
 #include "../sanke.h"
 
 void test_input(void);
