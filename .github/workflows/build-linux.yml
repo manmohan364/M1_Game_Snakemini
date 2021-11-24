@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@v2
    
     - name: make build 
-      run: make build -c 3_Implementation/
+      run: make build -C 3_Implementation/
 
   
   
