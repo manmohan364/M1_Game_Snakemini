@@ -1,4 +1,4 @@
-# M1-Game-Sankemini
+# M1-Game-Snakemini
 🐍Mini snake game 🐍
 This Mini Project in C Snake Game is a simple console application without graphics. In this project, you can play the popular “Snake Game” just like you played it elsewhere. You have to use the up, down, right or left arrows to move the snake.The source code for Snake Game in C is complete and totally error-free. It is compiled in Code Blocks using the gcc compiler.
 
@@ -9,7 +9,6 @@ Foods are provided at the several co-ordinates of the screen for the snake to ea
 ![CODE GRADE](https://api.codiga.io/project/29873/status/svg)
 # CODACY BADGE
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/66172f7a969e43e787ad719af22858eb)](https://www.codacy.com/gh/manmohan364/M1-Game-Sankemini/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=manmohan364/M1-Game-Sankemini&amp;utm_campaign=Badge_Grade)
- 
 # Folder Structure
 
 | Floder  | Description |
