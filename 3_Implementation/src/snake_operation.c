@@ -1,4 +1,4 @@
-#include "sanke.h"
+#include "inc/sanke.h"
   
 // Function to generate the f
 // within the boundary
