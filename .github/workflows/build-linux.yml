@@ -13,8 +13,14 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
+    - name: setup
+      run: sudo apt-get install make
     - name: make
-      run: make -all 3_Implementation/
+      run: make
+    - name: make check
+      run: make check
+    - name: make distcheck
+      run: make -c Multiplefile
 
   
   
