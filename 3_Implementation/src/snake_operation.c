@@ -22,8 +22,8 @@ label2:
 }
    int input(int flag,int gameover)
 {
-    if (kbhit()) {
-        switch (getchar()) {
+    if (_kbhit()) {
+        switch (_getchar()) {
         case 'a':
             flag = 1;
             break;
