@@ -82,6 +82,15 @@ Then increase the score whenever the snake eats a fruit.
 # High Level Requirements:
 | HLR  | Descriation |
 | ------------- | ------------- |
-| HLR_1  | Content Cell  |
-| HLR_2  | Content Cell  |
-| HLR_3  |
+| HLR_1  | User should be able to read data from file   |
+| HLR_2  | The game should correctly calculted and update |
+| HLR_3  | If the game is not working properly should raise an error
+
+
+# Low Level Requirement
+
+| LLR  | Descriation |
+| ------------- | ------------- |
+| LLR_1  | Good readability of code   |
+| LLR_2  | The game code shouldbe open for development  |
+| LLR_3  | the message printed by the game should be catchy  
