@@ -10,3 +10,13 @@ Foods are provided at the several co-ordinates of the screen for the snake to ea
 # CODACY BADGE
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/66172f7a969e43e787ad719af22858eb)](https://www.codacy.com/gh/manmohan364/M1-Game-Sankemini/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=manmohan364/M1-Game-Sankemini&amp;utm_campaign=Badge_Grade)
  
+# Folder Structure
+
+| Floder  | Description |
+| --------------- | ------------------ |
+| 1_Requirement  | All about the project tool and requirement And research |
+| 2_Design  | Design of whole project and UML Diagram  |  
+| 3_Implementation |  All code program with its source and header file |
+| 4_TestPlan |  All test case of program or coding |
+| 5_Report | Complete project report  |
+| 6_ImageAndVideos| Images of final outcome        |
