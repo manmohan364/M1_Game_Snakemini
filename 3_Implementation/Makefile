@@ -1,6 +1,9 @@
 PROJ_NAME = snakemini
 SRC = minisnake.c src/snake_operation.c
 
+TEST_SRC = src/snake_operation.c test/test_operation.c unity/unity.c
+TEST_NAME = test_result
+
 #To check if the snakeoperation.dows or linux and set the executable file extension and delete command accordingly
 ifdef OS
    RM = del /q
@@ -19,6 +22,8 @@ build:
 
 run: build
 	./$(call FixPath,$(PROJ_NAME).$(EXEC))
+test: 
+	gcc $(TEST_SRC) -o $(call FixPath,$(TEST_NAME).$(EXEC))  
 
 clean:
 	$(RM) $(call FixPath,$(PROJ_NAME).$(EXEC))
