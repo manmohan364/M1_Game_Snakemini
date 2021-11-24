@@ -13,8 +13,6 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: setup
-      run: sudo apt-get install make
     - name: make
       run: make -all 3_Implementation/
 
