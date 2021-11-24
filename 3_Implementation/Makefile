@@ -1,5 +1,5 @@
 PROJ_NAME = snakemini
-SRC = minisnake.c snake_operation.c
+SRC = minisnake.c src/snake_operation.c
 
 #To check if the snakeoperation.dows or linux and set the executable file extension and delete command accordingly
 ifdef OS
