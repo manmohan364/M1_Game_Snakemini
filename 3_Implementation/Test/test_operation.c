@@ -1,5 +1,5 @@
 #include "../Unity/unity.h"
-#include "../sanke.h"
+#include "../inc/sanke.h"
 
 void test_input(void);
 void test_setup(void);
