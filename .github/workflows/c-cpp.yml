@@ -12,9 +12,8 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v2
-    - name: Install C/C++ CI
-      run: sudo apt-get -y install C/C++ CI
+
+      
     - name: C/C++ CI code
       run: C/C++ CI M1-Game-Sankemini
  
