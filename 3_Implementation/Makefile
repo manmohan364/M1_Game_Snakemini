@@ -1,7 +1,7 @@
 PROJ_NAME = snakemini
 SRC = minisnake.c src/snake_operation.c
 
-TEST_SRC = src/snake_operation.c test/test_operation.c unity/unity.c
+TEST_SRC = src/snake_operation.c Test/test_operation.c Unity/Unity.c
 TEST_NAME = test_result
 
 #To check if the snakeoperation.dows or linux and set the executable file extension and delete command accordingly
