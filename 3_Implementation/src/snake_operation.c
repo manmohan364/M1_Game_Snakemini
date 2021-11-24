@@ -23,7 +23,7 @@ label2:
    int input(int flag,int gameover)
 {
     if (kbhit()) {
-        switch (getch()) {
+        switch (getchar()) {
         case 'a':
             flag = 1;
             break;
