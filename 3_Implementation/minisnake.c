@@ -1,4 +1,4 @@
-#include "sanke.h"
+#include "inc/sanke.h"
   
 int i, j, height = 20, width = 20;
 int gameover, score;
